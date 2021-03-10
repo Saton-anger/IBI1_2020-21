@@ -1,2 +1,0 @@
-for Practical 5
-
