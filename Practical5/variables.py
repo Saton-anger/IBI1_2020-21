@@ -10,5 +10,6 @@ print(e)
 X=True
 Y=False
 Z=(X and not Y) or (Y and not X)
-
+W=(X!=Y)
 print(Z)
+print(W)
