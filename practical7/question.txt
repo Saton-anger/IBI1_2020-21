@@ -1,5 +1,5 @@
 question: comparing the new cases between China and the world.
 
-Lines: 70-88
+Lines: 61-79
 
 Discussion:Although China initially accounted for the majority of new cases, the number of new cases in China has since accounted for a small percentage of new cases in the world.
