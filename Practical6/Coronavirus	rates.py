@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-# build a list and a dictionary
+# build a list of country and a dictionary of the number of people in different countries
 Country = ['USA', 'India', 'Brazil', 'Russia', 'UK']
 People = {'USA': 29862124, 'India': 11285561, 'Brazil': 11205972, 'Russia': 4360823, 'UK': 4234924}
 # output the dictionary "People"
